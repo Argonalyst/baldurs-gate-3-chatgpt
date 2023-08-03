@@ -12,9 +12,11 @@ This is a Python-based project that uses web scraping. The script currently targ
 - Python 3.7 or later
 - Requests
 - BeautifulSoup
-- urllib
 - transformers
 - regex
+- langchain
+- pickle
+- requests
 
 ## Functions
 
